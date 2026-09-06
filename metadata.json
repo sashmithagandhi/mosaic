@@ -1,0 +1,6 @@
+{
+  "name": "MOSAIC",
+  "description": "Students Team Project Collaboration Platform — Every role is a piece.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
