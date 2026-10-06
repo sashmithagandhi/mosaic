@@ -2,9 +2,7 @@
 
 > Every role is a piece.
 
-An AI-powered collaborative project platform that helps students find teammates, work on real-world projects, and build experience together.
-
-**Product spec:** [Mosaic PRD](https://github.com/sashmithagandhi/mosaic-prd)
+A collaborative project platform that helps students find teammates, work on real-world projects, and build experience together.
 
 ## Problem
 
